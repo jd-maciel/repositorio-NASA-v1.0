@@ -178,6 +178,24 @@
 
 /*LETICIA ESCREVE SEU CSS AQUI */
 
+.vid{
+    width: 100%;
+    height: 80%;
+    background-color: azure;
+}
+.texto{
+    width: 100%;
+    height: 20%;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.texto p {
+    text-transform: uppercase;
+    color: cornsilk;
+    font-weight: bolder;
+}
 
 
 
