@@ -147,7 +147,7 @@
 
 .carousel-control-prev{
     background-color: black;
-    height: 95%;
+    height: 100%;
     width: 3%;
     justify-content: center;
       
@@ -155,7 +155,7 @@
 
 .carousel-control-next{
     background-color: black;
-    height: 95%;
+    height: 100%;
     width: 3%;
     
 }
@@ -332,7 +332,7 @@ ARRUME SUAS DIVS DENTRO DO LOCAL INDICADO PARA CADA UM FAZER ISSO
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 */
-
+    
 
 
 
