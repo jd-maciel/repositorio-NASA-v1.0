@@ -143,7 +143,20 @@
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 */
 
+.carousel-control-prev{
+    background-color: black;
+    height: 100%;
+    width: 3%;
+    justify-content: center;
+      
+}
 
+.carousel-control-next{
+    background-color: black;
+    height: 100%;
+    width: 3%;
+    
+}
 
 
 /*RAMON ESCREVE SEU CSS AQUI */
