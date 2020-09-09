@@ -45,6 +45,12 @@
 
 }
 
+.lukao{
+    width: 100%;
+    height: 10%;
+    background-color: blueviolet;
+}
+
 .formulario{
     position: relative;
     float: left;
