@@ -1,2 +1,3 @@
-# repositorio-NASA-v1.0
-Loucademia de TI dois, AGORA VAI!!!
+# repositorio-NASA
+Loucademia de TI
+Obrigado pelo convite Jaque
