@@ -3,14 +3,20 @@
     padding: 0px;
 }
 
+.container{
+ margin-left: 10%;
 
+
+
+
+}
 
 
 .site{
     position: absolute;
     top: 0px;
     left: 0px;
-    width: 100%;
+    width: 80%;
     height: 100%;
     background-color: rgb(255, 255, 255);
 
